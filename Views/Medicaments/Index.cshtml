@@ -1,0 +1,97 @@
+﻿@model IEnumerable<GSB_GCR.Models.Medicament>
+
+@{
+	ViewData["Title"] = "Listes des médicaments";
+}
+
+<h1>Listes des médicaments</h1>
+@*
+
+
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Index">
+            <div class="form-group">
+                <label class="control-label">Nom Médicament</label>
+                <input name="rech" type="text" class="form-control" />
+            </div>
+            <p></p>
+            <div class="form-group">
+                <input type="submit" value="Rechercher" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+*@
+
+
+
+
+
+<a asp-action="Create" class="btn btn-success">Nouveau Médicament</a>
+<table class="table">
+	<thead>
+		<tr>
+			<th>
+				@Html.Label("Nom")
+			</th>
+			<th>
+				@Html.Label("Composition")
+			</th>
+			<th>
+				@Html.Label("Effets")
+			</th>
+			<th>
+				@Html.Label("Contre Indication")
+			</th>
+			<th>
+				@Html.Label("Prix")
+			</th>
+			@* <th>
+			@Html.DisplayNameFor(model => model.SsmaTimeStamp)
+			</th>
+			*@
+			<th>
+				@Html.Label("Famille")
+			</th>
+			<th></th>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach (var item in Model)
+		{
+			<tr>
+				<td>
+					@Html.DisplayFor(modelItem => item.MedNomcommercial)
+				</td>
+				<td>
+					@Html.DisplayFor(modelItem => item.MedComposition)
+				</td>
+				<td>
+					@Html.DisplayFor(modelItem => item.MedEffets)
+				</td>
+				<td>
+					@Html.DisplayFor(modelItem => item.MedContreindic)
+				</td>
+				<td>
+					@Html.DisplayFor(modelItem => item.MedPrixechantillon)
+				</td>
+				@*<td>
+			@Html.DisplayFor(modelItem => item.SsmaTimeStamp)
+			</td>
+			*@
+				<td>
+					@Html.DisplayFor(modelItem => item.FamCodeNavigation.FamLibelle)
+				</td>
+				<th>
+					<div class="d-grid gap-2">
+						<a asp-action="Edit" asp-route-id="@item.MedDepotlegal" class="btn btn-warning ">Editer</a>
+						<a asp-action="Details" asp-route-id="@item.MedDepotlegal" class="btn btn-primary">Detail</a>
+						<a asp-action="Delete" asp-route-id="@item.MedDepotlegal" class="btn btn-danger">Suppresion</a>
+					</div>
+					
+				</th>
+			</tr>
+		}
+	</tbody>
+</table>

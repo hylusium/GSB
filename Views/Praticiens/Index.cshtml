@@ -1,0 +1,79 @@
+﻿@model IEnumerable<GSB_GCR.Models.Praticien>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Liste des Praticiens</h1>
+
+
+<p>
+    <a asp-action="Create">Ajouter un Praticien</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.Label("Nom")
+            </th>
+            <th>
+                @Html.Label("Prénom")
+            </th>
+            <th>
+                @Html.Label("Adresse")
+            </th>
+            <th>
+                @Html.Label("Code postale")
+            </th>
+            <th>
+                @Html.Label("Ville")
+            </th>
+            <th>
+                @Html.Label("Coefficient")
+            </th>
+            @*<th>
+                @Html.DisplayNameFor(model => model.SsmaTimeStamp)
+            </th>
+            *@
+            <th>
+                @Html.Label("Fonction")
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.PraNom)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PraPrenom)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PraAdresse)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PraCp)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PraVille)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PraCoefnotoriete)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SsmaTimeStamp)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TypCodeNavigation.TypCode)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.PraNum">Editer</a> |
+                <a asp-action="Details" asp-route-id="@item.PraNum">Detail</a> |
+                <a asp-action="Delete" asp-route-id="@item.PraNum">Supprimer</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

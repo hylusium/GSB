@@ -1,0 +1,441 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hugod\\OneDrive\\Bureau\\GSB_GCR\\GSB_GCR\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F77A6F8E-BD42-416B-9529-B37304DB111F}|GSB_GCR.csproj|c:\\users\\hugod\\onedrive\\bureau\\gsb_gcr\\gsb_gcr\\views\\rapportvisites\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F77A6F8E-BD42-416B-9529-B37304DB111F}|GSB_GCR.csproj|solutionrelative:views\\rapportvisites\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F77A6F8E-BD42-416B-9529-B37304DB111F}|GSB_GCR.csproj|c:\\users\\hugod\\onedrive\\bureau\\gsb_gcr\\gsb_gcr\\controllers\\rapportvisitescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F77A6F8E-BD42-416B-9529-B37304DB111F}|GSB_GCR.csproj|solutionrelative:controllers\\rapportvisitescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F77A6F8E-BD42-416B-9529-B37304DB111F}|GSB_GCR.csproj|c:\\users\\hugod\\onedrive\\bureau\\gsb_gcr\\gsb_gcr\\controllers\\visiteurscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F77A6F8E-BD42-416B-9529-B37304DB111F}|GSB_GCR.csproj|solutionrelative:controllers\\visiteurscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F77A6F8E-BD42-416B-9529-B37304DB111F}|GSB_GCR.csproj|c:\\users\\hugod\\onedrive\\bureau\\gsb_gcr\\gsb_gcr\\views\\rapportvisites\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F77A6F8E-BD42-416B-9529-B37304DB111F}|GSB_GCR.csproj|solutionrelative:views\\rapportvisites\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F77A6F8E-BD42-416B-9529-B37304DB111F}|GSB_GCR.csproj|c:\\users\\hugod\\onedrive\\bureau\\gsb_gcr\\gsb_gcr\\views\\rapportvisites\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F77A6F8E-BD42-416B-9529-B37304DB111F}|GSB_GCR.csproj|solutionrelative:views\\rapportvisites\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F77A6F8E-BD42-416B-9529-B37304DB111F}|GSB_GCR.csproj|c:\\users\\hugod\\onedrive\\bureau\\gsb_gcr\\gsb_gcr\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F77A6F8E-BD42-416B-9529-B37304DB111F}|GSB_GCR.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F77A6F8E-BD42-416B-9529-B37304DB111F}|GSB_GCR.csproj|c:\\users\\hugod\\onedrive\\bureau\\gsb_gcr\\gsb_gcr\\views\\visiteurs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F77A6F8E-BD42-416B-9529-B37304DB111F}|GSB_GCR.csproj|solutionrelative:views\\visiteurs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F77A6F8E-BD42-416B-9529-B37304DB111F}|GSB_GCR.csproj|c:\\users\\hugod\\onedrive\\bureau\\gsb_gcr\\gsb_gcr\\controllers\\famillescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F77A6F8E-BD42-416B-9529-B37304DB111F}|GSB_GCR.csproj|solutionrelative:controllers\\famillescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F77A6F8E-BD42-416B-9529-B37304DB111F}|GSB_GCR.csproj|c:\\users\\hugod\\onedrive\\bureau\\gsb_gcr\\gsb_gcr\\views\\familles\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F77A6F8E-BD42-416B-9529-B37304DB111F}|GSB_GCR.csproj|solutionrelative:views\\familles\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F77A6F8E-BD42-416B-9529-B37304DB111F}|GSB_GCR.csproj|c:\\users\\hugod\\onedrive\\bureau\\gsb_gcr\\gsb_gcr\\views\\medicaments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F77A6F8E-BD42-416B-9529-B37304DB111F}|GSB_GCR.csproj|solutionrelative:views\\medicaments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F77A6F8E-BD42-416B-9529-B37304DB111F}|GSB_GCR.csproj|c:\\users\\hugod\\onedrive\\bureau\\gsb_gcr\\gsb_gcr\\views\\familles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F77A6F8E-BD42-416B-9529-B37304DB111F}|GSB_GCR.csproj|solutionrelative:views\\familles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F77A6F8E-BD42-416B-9529-B37304DB111F}|GSB_GCR.csproj|c:\\users\\hugod\\onedrive\\bureau\\gsb_gcr\\gsb_gcr\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F77A6F8E-BD42-416B-9529-B37304DB111F}|GSB_GCR.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F77A6F8E-BD42-416B-9529-B37304DB111F}|GSB_GCR.csproj|c:\\users\\hugod\\onedrive\\bureau\\gsb_gcr\\gsb_gcr\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F77A6F8E-BD42-416B-9529-B37304DB111F}|GSB_GCR.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F77A6F8E-BD42-416B-9529-B37304DB111F}|GSB_GCR.csproj|c:\\users\\hugod\\onedrive\\bureau\\gsb_gcr\\gsb_gcr\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F77A6F8E-BD42-416B-9529-B37304DB111F}|GSB_GCR.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F77A6F8E-BD42-416B-9529-B37304DB111F}|GSB_GCR.csproj|c:\\users\\hugod\\onedrive\\bureau\\gsb_gcr\\gsb_gcr\\controllers\\medicamentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F77A6F8E-BD42-416B-9529-B37304DB111F}|GSB_GCR.csproj|solutionrelative:controllers\\medicamentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F77A6F8E-BD42-416B-9529-B37304DB111F}|GSB_GCR.csproj|c:\\users\\hugod\\onedrive\\bureau\\gsb_gcr\\gsb_gcr\\views\\praticiens\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F77A6F8E-BD42-416B-9529-B37304DB111F}|GSB_GCR.csproj|solutionrelative:views\\praticiens\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F77A6F8E-BD42-416B-9529-B37304DB111F}|GSB_GCR.csproj|c:\\users\\hugod\\onedrive\\bureau\\gsb_gcr\\gsb_gcr\\views\\medicaments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F77A6F8E-BD42-416B-9529-B37304DB111F}|GSB_GCR.csproj|solutionrelative:views\\medicaments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F77A6F8E-BD42-416B-9529-B37304DB111F}|GSB_GCR.csproj|c:\\users\\hugod\\onedrive\\bureau\\gsb_gcr\\gsb_gcr\\views\\praticiens\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F77A6F8E-BD42-416B-9529-B37304DB111F}|GSB_GCR.csproj|solutionrelative:views\\praticiens\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F77A6F8E-BD42-416B-9529-B37304DB111F}|GSB_GCR.csproj|c:\\users\\hugod\\onedrive\\bureau\\gsb_gcr\\gsb_gcr\\views\\praticiens\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F77A6F8E-BD42-416B-9529-B37304DB111F}|GSB_GCR.csproj|solutionrelative:views\\praticiens\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F77A6F8E-BD42-416B-9529-B37304DB111F}|GSB_GCR.csproj|c:\\users\\hugod\\onedrive\\bureau\\gsb_gcr\\gsb_gcr\\controllers\\praticienscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F77A6F8E-BD42-416B-9529-B37304DB111F}|GSB_GCR.csproj|solutionrelative:controllers\\praticienscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F77A6F8E-BD42-416B-9529-B37304DB111F}|GSB_GCR.csproj|c:\\users\\hugod\\onedrive\\bureau\\gsb_gcr\\gsb_gcr\\views\\medicaments\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F77A6F8E-BD42-416B-9529-B37304DB111F}|GSB_GCR.csproj|solutionrelative:views\\medicaments\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F77A6F8E-BD42-416B-9529-B37304DB111F}|GSB_GCR.csproj|c:\\users\\hugod\\onedrive\\bureau\\gsb_gcr\\gsb_gcr\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F77A6F8E-BD42-416B-9529-B37304DB111F}|GSB_GCR.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F77A6F8E-BD42-416B-9529-B37304DB111F}|GSB_GCR.csproj|c:\\users\\hugod\\onedrive\\bureau\\gsb_gcr\\gsb_gcr\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F77A6F8E-BD42-416B-9529-B37304DB111F}|GSB_GCR.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F77A6F8E-BD42-416B-9529-B37304DB111F}|GSB_GCR.csproj|c:\\users\\hugod\\onedrive\\bureau\\gsb_gcr\\gsb_gcr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F77A6F8E-BD42-416B-9529-B37304DB111F}|GSB_GCR.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F77A6F8E-BD42-416B-9529-B37304DB111F}|GSB_GCR.csproj|c:\\users\\hugod\\onedrive\\bureau\\gsb_gcr\\gsb_gcr\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F77A6F8E-BD42-416B-9529-B37304DB111F}|GSB_GCR.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F77A6F8E-BD42-416B-9529-B37304DB111F}|GSB_GCR.csproj|c:\\users\\hugod\\onedrive\\bureau\\gsb_gcr\\gsb_gcr\\models\\gsb_gcrcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F77A6F8E-BD42-416B-9529-B37304DB111F}|GSB_GCR.csproj|solutionrelative:models\\gsb_gcrcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 137,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\hugod\\OneDrive\\Bureau\\GSB_GCR\\GSB_GCR\\Views\\RapportVisites\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\RapportVisites\\Create.cshtml",
+              "ToolTip": "C:\\Users\\hugod\\OneDrive\\Bureau\\GSB_GCR\\GSB_GCR\\Views\\RapportVisites\\Create.cshtml",
+              "RelativeToolTip": "Views\\RapportVisites\\Create.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-26T12:44:38.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hugod\\OneDrive\\Bureau\\GSB_GCR\\GSB_GCR\\Views\\RapportVisites\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\RapportVisites\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hugod\\OneDrive\\Bureau\\GSB_GCR\\GSB_GCR\\Views\\RapportVisites\\Index.cshtml",
+              "RelativeToolTip": "Views\\RapportVisites\\Index.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADUAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-26T12:39:10.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RapportVisitesController.cs",
+              "DocumentMoniker": "C:\\Users\\hugod\\OneDrive\\Bureau\\GSB_GCR\\GSB_GCR\\Controllers\\RapportVisitesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RapportVisitesController.cs",
+              "ToolTip": "C:\\Users\\hugod\\OneDrive\\Bureau\\GSB_GCR\\GSB_GCR\\Controllers\\RapportVisitesController.cs",
+              "RelativeToolTip": "Controllers\\RapportVisitesController.cs",
+              "ViewState": "AQIAAH0AAAAAAAAAAAAuwI0AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T12:37:30.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hugod\\OneDrive\\Bureau\\GSB_GCR\\GSB_GCR\\Views\\Visiteurs\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Visiteurs\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hugod\\OneDrive\\Bureau\\GSB_GCR\\GSB_GCR\\Views\\Visiteurs\\Index.cshtml",
+              "RelativeToolTip": "Views\\Visiteurs\\Index.cshtml",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAD8AAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-26T12:34:45.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FamillesController.cs",
+              "DocumentMoniker": "C:\\Users\\hugod\\OneDrive\\Bureau\\GSB_GCR\\GSB_GCR\\Controllers\\FamillesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FamillesController.cs",
+              "ToolTip": "C:\\Users\\hugod\\OneDrive\\Bureau\\GSB_GCR\\GSB_GCR\\Controllers\\FamillesController.cs",
+              "RelativeToolTip": "Controllers\\FamillesController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowCQAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T12:20:59.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PraticiensController.cs",
+              "DocumentMoniker": "C:\\Users\\hugod\\OneDrive\\Bureau\\GSB_GCR\\GSB_GCR\\Controllers\\PraticiensController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PraticiensController.cs",
+              "ToolTip": "C:\\Users\\hugod\\OneDrive\\Bureau\\GSB_GCR\\GSB_GCR\\Controllers\\PraticiensController.cs",
+              "RelativeToolTip": "Controllers\\PraticiensController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T09:32:22.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\hugod\\OneDrive\\Bureau\\GSB_GCR\\GSB_GCR\\Views\\Medicaments\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Medicaments\\Create.cshtml",
+              "ToolTip": "C:\\Users\\hugod\\OneDrive\\Bureau\\GSB_GCR\\GSB_GCR\\Views\\Medicaments\\Create.cshtml",
+              "RelativeToolTip": "Views\\Medicaments\\Create.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-26T08:28:00.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\hugod\\OneDrive\\Bureau\\GSB_GCR\\GSB_GCR\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\hugod\\OneDrive\\Bureau\\GSB_GCR\\GSB_GCR\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAACrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-26T08:16:52.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hugod\\OneDrive\\Bureau\\GSB_GCR\\GSB_GCR\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hugod\\OneDrive\\Bureau\\GSB_GCR\\GSB_GCR\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-26T08:16:48.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\hugod\\OneDrive\\Bureau\\GSB_GCR\\GSB_GCR\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\hugod\\OneDrive\\Bureau\\GSB_GCR\\GSB_GCR\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-26T08:16:37.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VisiteursController.cs",
+              "DocumentMoniker": "C:\\Users\\hugod\\OneDrive\\Bureau\\GSB_GCR\\GSB_GCR\\Controllers\\VisiteursController.cs",
+              "RelativeDocumentMoniker": "Controllers\\VisiteursController.cs",
+              "ToolTip": "C:\\Users\\hugod\\OneDrive\\Bureau\\GSB_GCR\\GSB_GCR\\Controllers\\VisiteursController.cs",
+              "RelativeToolTip": "Controllers\\VisiteursController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABkAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T12:29:46.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\hugod\\OneDrive\\Bureau\\GSB_GCR\\GSB_GCR\\Views\\RapportVisites\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\RapportVisites\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\hugod\\OneDrive\\Bureau\\GSB_GCR\\GSB_GCR\\Views\\RapportVisites\\Delete.cshtml",
+              "RelativeToolTip": "Views\\RapportVisites\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-26T12:52:50.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\hugod\\OneDrive\\Bureau\\GSB_GCR\\GSB_GCR\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\hugod\\OneDrive\\Bureau\\GSB_GCR\\GSB_GCR\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-26T08:16:35.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\hugod\\OneDrive\\Bureau\\GSB_GCR\\GSB_GCR\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\hugod\\OneDrive\\Bureau\\GSB_GCR\\GSB_GCR\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACIAAACBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-26T08:08:07.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\hugod\\OneDrive\\Bureau\\GSB_GCR\\GSB_GCR\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\hugod\\OneDrive\\Bureau\\GSB_GCR\\GSB_GCR\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-26T08:14:15.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\hugod\\OneDrive\\Bureau\\GSB_GCR\\GSB_GCR\\Views\\Familles\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Familles\\Details.cshtml",
+              "ToolTip": "C:\\Users\\hugod\\OneDrive\\Bureau\\GSB_GCR\\GSB_GCR\\Views\\Familles\\Details.cshtml",
+              "RelativeToolTip": "Views\\Familles\\Details.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-26T12:22:46.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hugod\\OneDrive\\Bureau\\GSB_GCR\\GSB_GCR\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\hugod\\OneDrive\\Bureau\\GSB_GCR\\GSB_GCR\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABMAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T08:11:38.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hugod\\OneDrive\\Bureau\\GSB_GCR\\GSB_GCR\\Views\\Familles\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Familles\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hugod\\OneDrive\\Bureau\\GSB_GCR\\GSB_GCR\\Views\\Familles\\Index.cshtml",
+              "RelativeToolTip": "Views\\Familles\\Index.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-26T12:22:23.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hugod\\OneDrive\\Bureau\\GSB_GCR\\GSB_GCR\\Views\\Medicaments\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Medicaments\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hugod\\OneDrive\\Bureau\\GSB_GCR\\GSB_GCR\\Views\\Medicaments\\Index.cshtml",
+              "RelativeToolTip": "Views\\Medicaments\\Index.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-26T08:28:11.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MedicamentsController.cs",
+              "DocumentMoniker": "C:\\Users\\hugod\\OneDrive\\Bureau\\GSB_GCR\\GSB_GCR\\Controllers\\MedicamentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MedicamentsController.cs",
+              "ToolTip": "C:\\Users\\hugod\\OneDrive\\Bureau\\GSB_GCR\\GSB_GCR\\Controllers\\MedicamentsController.cs",
+              "RelativeToolTip": "Controllers\\MedicamentsController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAuwCgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T08:07:34.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\hugod\\OneDrive\\Bureau\\GSB_GCR\\GSB_GCR\\Views\\Praticiens\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Praticiens\\Create.cshtml",
+              "ToolTip": "C:\\Users\\hugod\\OneDrive\\Bureau\\GSB_GCR\\GSB_GCR\\Views\\Praticiens\\Create.cshtml",
+              "RelativeToolTip": "Views\\Praticiens\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-26T09:37:10.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hugod\\OneDrive\\Bureau\\GSB_GCR\\GSB_GCR\\Views\\Praticiens\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Praticiens\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hugod\\OneDrive\\Bureau\\GSB_GCR\\GSB_GCR\\Views\\Praticiens\\Index.cshtml",
+              "RelativeToolTip": "Views\\Praticiens\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-26T09:37:32.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\hugod\\OneDrive\\Bureau\\GSB_GCR\\GSB_GCR\\Views\\Praticiens\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Praticiens\\Details.cshtml",
+              "ToolTip": "C:\\Users\\hugod\\OneDrive\\Bureau\\GSB_GCR\\GSB_GCR\\Views\\Praticiens\\Details.cshtml",
+              "RelativeToolTip": "Views\\Praticiens\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-26T09:37:31.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\hugod\\OneDrive\\Bureau\\GSB_GCR\\GSB_GCR\\Views\\Medicaments\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Medicaments\\Details.cshtml",
+              "ToolTip": "C:\\Users\\hugod\\OneDrive\\Bureau\\GSB_GCR\\GSB_GCR\\Views\\Medicaments\\Details.cshtml",
+              "RelativeToolTip": "Views\\Medicaments\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-26T08:28:09.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hugod\\OneDrive\\Bureau\\GSB_GCR\\GSB_GCR\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\hugod\\OneDrive\\Bureau\\GSB_GCR\\GSB_GCR\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-26T07:21:18.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "GSB_GCRContext.cs",
+              "DocumentMoniker": "C:\\Users\\hugod\\OneDrive\\Bureau\\GSB_GCR\\GSB_GCR\\Models\\GSB_GCRContext.cs",
+              "RelativeDocumentMoniker": "Models\\GSB_GCRContext.cs",
+              "ToolTip": "C:\\Users\\hugod\\OneDrive\\Bureau\\GSB_GCR\\GSB_GCR\\Models\\GSB_GCRContext.cs",
+              "RelativeToolTip": "Models\\GSB_GCRContext.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAIwC8AAABvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T07:08:31.758Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

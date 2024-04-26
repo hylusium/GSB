@@ -1,0 +1,51 @@
+﻿@model GSB_GCR.Models.RapportVisite
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>RapportVisite</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="VisMatricule" class="control-label">Visiteur</label>
+                <select asp-for="VisMatricule" class ="form-control" asp-items="ViewBag.VisMatricule"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="PraNum" class="control-label">Praticien</label>
+                <select asp-for="PraNum" class ="form-control" asp-items="ViewBag.PraNum"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="RapDate" class="control-label">Date</label>
+                <input asp-for="RapDate" class="form-control" />
+                <span asp-validation-for="RapDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="RapBilan" class="control-label">Bilan</label>
+                <input asp-for="RapBilan" class="form-control" />
+                <span asp-validation-for="RapBilan" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="RapMotif" class="control-label">Motif</label>
+                <input asp-for="RapMotif" class="form-control" />
+                <span asp-validation-for="RapMotif" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

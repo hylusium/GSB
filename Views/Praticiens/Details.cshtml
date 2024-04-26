@@ -1,0 +1,66 @@
+﻿@model GSB_GCR.Models.Praticien
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Praticien</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.PraNom)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.PraNom)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.PraPrenom)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.PraPrenom)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.PraAdresse)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.PraAdresse)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.PraCp)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.PraCp)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.PraVille)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.PraVille)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.PraCoefnotoriete)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.PraCoefnotoriete)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.SsmaTimeStamp)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.SsmaTimeStamp)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.TypCodeNavigation)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.TypCodeNavigation.TypCode)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.PraNum">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

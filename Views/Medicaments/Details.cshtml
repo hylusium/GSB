@@ -1,0 +1,60 @@
+﻿@model GSB_GCR.Models.Medicament
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Medicament</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.MedNomcommercial)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.MedNomcommercial)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.MedComposition)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.MedComposition)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.MedEffets)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.MedEffets)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.MedContreindic)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.MedContreindic)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.MedPrixechantillon)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.MedPrixechantillon)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.SsmaTimeStamp)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.SsmaTimeStamp)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.FamCodeNavigation)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.FamCodeNavigation.FamCode)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.MedDepotlegal">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

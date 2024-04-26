@@ -1,0 +1,77 @@
+﻿@model IEnumerable<GSB_GCR.Models.Visiteur>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.VisNom)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.VisPrenom)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.VisAdresse)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.VisCp)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.VisVille)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.VisDateembauche)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.LabCodeNavigation)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SecCodeNavigation)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.VisNom)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.VisPrenom)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.VisAdresse)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.VisCp)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.VisVille)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.VisDateembauche)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.LabCodeNavigation.LabNom)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SecCodeNavigation.SecCode)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.VisMatricule">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.VisMatricule">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.VisMatricule">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

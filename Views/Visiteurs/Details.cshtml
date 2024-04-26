@@ -1,0 +1,66 @@
+﻿@model GSB_GCR.Models.Visiteur
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Visiteur</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.VisNom)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.VisNom)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.VisPrenom)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.VisPrenom)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.VisAdresse)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.VisAdresse)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.VisCp)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.VisCp)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.VisVille)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.VisVille)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.VisDateembauche)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.VisDateembauche)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.LabCodeNavigation)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.LabCodeNavigation.LabCode)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.SecCodeNavigation)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.SecCodeNavigation.SecCode)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.VisMatricule">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>
